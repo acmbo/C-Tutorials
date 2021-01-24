@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585570507 source:c:\programmingprojects\c_tutorials\tutorial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+
+1585570431 source:c:\programmingprojects\c_tutorials\tutorial1\datatypes.c
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+
